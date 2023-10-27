@@ -1,1 +1,2 @@
-# intel_AI_homework
+# intel_AI_homework  
+it is sub
