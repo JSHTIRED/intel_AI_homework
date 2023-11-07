@@ -2,11 +2,11 @@
 it is sub
 
 
-hw3
+##hw3
 ## Training 결과
 |Classification model|Accuracy|FPS|Training time|Batch size|Learning rate|Other prams|
 |----|----|----|----|----|----|----|
-|EfficientNet-V2-S| 
+|EfficientNet-V2-S| 1| FPS: 6.89 |FPS: 6.89 | 16|865 |NONE | 
 |EfficientNet-B0| 
 |DeiT-Tiny| 
 |MobileNet-V3-large-1x| 1| FPS: 6.89 |FPS: 6.89 | 16|865 |NONE |
