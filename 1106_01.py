@@ -9,13 +9,12 @@ def controlqq(A,ctrl):
         FactoryController.system_stop(ctrl)
         print('2')
     elif A == '3':
-        FactoryController.red
-        print('3')
+        FactoryController.red=True
     elif A == '4':
-        FactoryController.orange
+        FactoryController.orange=True
         print('4')
     elif A == '5':
-        FactoryController.green
+        FactoryController.green=True
         print('5')
     elif A == '6':
         FactoryController.conveyor
